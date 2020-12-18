@@ -13,4 +13,6 @@
   - [Live Demo](https://rohan-cce.github.io/Recommendations-page-ui-using-css/)
 - 🌐[Team Section Design-1 Using html css](https://rohan-cce.github.io/team-section-using-html-css/)
   - [Live Demo](https://rohan-cce.github.io/team-section-using-html-css/)
-- 🌐[Team Section Design-2 Using html css]()
+- 🌐[Team Section Design-2 Using html css](https://mind-captivators.github.io/)
+  - [Source Code](https://github.com/Mind-Captivators/Mind-Captivators.github.io)
+  - [Live Demo](https://mind-captivators.github.io/)
