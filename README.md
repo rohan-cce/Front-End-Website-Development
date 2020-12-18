@@ -13,4 +13,4 @@
   - [Live Demo](https://rohan-cce.github.io/Recommendations-page-ui-using-css/)
 - 🌐[Team Section Design-1 Using html css](https://rohan-cce.github.io/team-section-using-html-css/)
   - [Live Demo](https://rohan-cce.github.io/team-section-using-html-css/)
-- 🌐[Team Section Page -2]
+- 🌐[Team Section Design-2 Using html css]()
