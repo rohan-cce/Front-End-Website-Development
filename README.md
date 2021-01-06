@@ -25,3 +25,6 @@
 - 🌐 [Happy New Year 2021 Wishes Html Css and js](https://rohan-cce.github.io/2021-new-year-wishes/)
   - [Source code](https://github.com/rohan-cce/2021-new-year-wishes)
   - [Live Demo](https://rohan-cce.github.io/2021-new-year-wishes/)
+- 🌐 [clip path button](https://codepen.io/rohan-cce/pen/KKgeMeN)
+    - 🌐 [Source Code](https://github.com/rohan-cce/html-css-components/tree/main/clip%20path%20button)
+    - 🌐 [Live Demo](https://codepen.io/rohan-cce/pen/KKgeMeN)
