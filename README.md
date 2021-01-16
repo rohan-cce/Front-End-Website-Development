@@ -28,3 +28,6 @@
 - 🌐 [clip path button](https://codepen.io/rohan-cce/pen/KKgeMeN)
     - 🌐 [Source Code](https://github.com/rohan-cce/html-css-components/tree/main/clip%20path%20button)
     - 🌐 [Live Demo](https://codepen.io/rohan-cce/pen/KKgeMeN)
+- 🌐 [Menu Item With Hover And Shiny Effects](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
+    - 🌐 [Source Code](https://github.com/rohan-cce/Menu-Item-With-Hover-And-Shiny-Effects)
+    - 🌐 [Live Demo](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
