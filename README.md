@@ -31,3 +31,6 @@
 - 🌐 [Menu Item With Hover And Shiny Effects](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
     - 🌐 [Source Code](https://github.com/rohan-cce/Menu-Item-With-Hover-And-Shiny-Effects)
     - 🌐 [Live Demo](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
+- 🌐 [Typing Text Effect Using HTML & CSS](https://rohan-cce.github.io/Typing-text-effect-using-css/)
+    - 🌐 [Source Code](https://github.com/rohan-cce/Typing-text-effect-using-css)
+    - 🌐 [Live Demo](https://rohan-cce.github.io/Typing-text-effect-using-css/)
