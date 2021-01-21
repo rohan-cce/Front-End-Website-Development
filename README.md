@@ -34,3 +34,6 @@
 - 🌐 [Typing Text Effect Using HTML & CSS](https://rohan-cce.github.io/Typing-text-effect-using-css/)
     - 🌐 [Source Code](https://github.com/rohan-cce/Typing-text-effect-using-css)
     - 🌐 [Live Demo](https://rohan-cce.github.io/Typing-text-effect-using-css/)
+- 🌐 [Coming soon website design](https://rohan-cce.github.io/coming-soon-website-design/)
+    - 🌐 [Source Code](https://github.com/rohan-cce/coming-soon-website-design)
+    - 🌐 [Live Demo](https://rohan-cce.github.io/coming-soon-website-design/)
